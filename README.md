@@ -10,7 +10,7 @@ This quote from Testing Python: Applying Unit Testing, TDD, BDD and Acceptance T
 
 There are two classes involved: 
 
-* `my_module` - which has a dependency on `third_party_code`
+* `my_module` - which has a dependency on `third_party_module`
 * `libraries/third_party_module` - which makes an API call before returning an instance
 
 Each of these has a descriptive comment.
